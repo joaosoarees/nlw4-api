@@ -35,7 +35,8 @@
       {
         "argsIgnorePattern": "_"
       }
-    ]
+    ],
+    "import/prefer-default-export": "off"
   },
   "settings": {
     "import/resolver": {
